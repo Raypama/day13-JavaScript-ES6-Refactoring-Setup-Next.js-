@@ -51,7 +51,7 @@ export default function Home() {
       </div>
       {/* Total harga */}
       <div className="bg-blue-50 p-4 rounded-lg">
-        <p>//spread And Rest</p>
+        <p>spread And Rest</p>
         <p>
           Beli {quantity} unit → Total: Rp{" "}
           {mathUtils
