@@ -22,7 +22,7 @@ export default function Home() {
         <p>a = 3</p>
         <p>b = 3</p>
         <p>arrowFunction : perkalian</p>
-        <p> console.log = {mathUtils.multiply(3, 3)}</p>
+        <p> console log = {mathUtils.multiply(3, 3)}</p>
       </div>
       <div className="bg-red-100">
         <h2 className="text-lg font-bold">Destructuring</h2>
